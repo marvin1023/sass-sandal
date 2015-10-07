@@ -1,0 +1,31 @@
+{
+  "name": "sass-sandal",
+  "version": "2.1.0",
+  "description": "a basic sass library, included reset css and some basic mixin and so on",
+  "keywords": [
+    "sass",
+    "scss",
+    "sandal",
+    "sass library"
+  ],
+  "homepage": "https://github.com/marvin1023/sass-sandal",
+  "bugs": {
+    "url": "https://github.com/marvin1023/sass-sandal/issues"
+  },
+  "author": "结一 <xuyc_brother@foxmail.com> (https://github.com/marvin1023)",
+  "maintainers": [
+    "结一 <xuyc_brother@foxmail.com>"
+  ],
+  "contributors": [
+    "结一 <xuyc_brother@foxmail.com> (https://github.com/marvin1023)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:marvin1023/sass-sandal.git"
+  },
+  "files": [
+    "dist/"
+  ],
+  "devDependencies": {},
+  "license": "MIT"
+}
